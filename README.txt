@@ -1,3 +1,9 @@
+This pakage includes all codes to generate results in the following paper:
+
+Reece A. McDorman, Bhoj Raj Thapa, Jenna Kim, and Jihye Bae. "Transfer Learning in EEG-based Reinforcement Learning Brain Machine Interfaces via Q-learning Kernel Temporal Differences." 2025 Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), 2025.
+
+If you use any of the codes published in this repository, partially or fully, you MUST cite the above conference paper.
+
 ====================================
 README
 ====================================
